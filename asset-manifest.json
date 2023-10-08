@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/brendontan.github.io/static/css/main.b080e96f.css",
-    "main.js": "/brendontan.github.io/static/js/main.da53748d.js",
-    "static/js/787.1ed0c42c.chunk.js": "/brendontan.github.io/static/js/787.1ed0c42c.chunk.js",
-    "static/media/brendontan_resume.pdf": "/brendontan.github.io/static/media/brendontan_resume.601e8c816ecde2099720.pdf",
-    "static/media/profile_pic2.jfif": "/brendontan.github.io/static/media/profile_pic2.b95c984d92399b3ff99f.jfif",
-    "static/media/RobotoSlab-Black.ttf": "/brendontan.github.io/static/media/RobotoSlab-Black.b1eefbae7b352cda1c3a.ttf",
-    "static/media/RobotoSlab-Bold.ttf": "/brendontan.github.io/static/media/RobotoSlab-Bold.aea772dee2141c9b0792.ttf",
-    "static/media/RobotoSlab-Regular.ttf": "/brendontan.github.io/static/media/RobotoSlab-Regular.7ff9da9c484d15185b5b.ttf",
-    "static/media/GildaDisplay-Regular.ttf": "/brendontan.github.io/static/media/GildaDisplay-Regular.f712cdf2015640c8cc1e.ttf",
-    "static/media/github.webp": "/brendontan.github.io/static/media/github.ed1c06d925fff0b57e32.webp",
-    "index.html": "/brendontan.github.io/index.html",
-    "main.b080e96f.css.map": "/brendontan.github.io/static/css/main.b080e96f.css.map",
-    "main.da53748d.js.map": "/brendontan.github.io/static/js/main.da53748d.js.map",
-    "787.1ed0c42c.chunk.js.map": "/brendontan.github.io/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/static/css/main.af54341a.css",
+    "main.js": "/static/js/main.922ef502.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/brendontan_resume.pdf": "/static/media/brendontan_resume.601e8c816ecde2099720.pdf",
+    "static/media/profile_pic2.jfif": "/static/media/profile_pic2.b95c984d92399b3ff99f.jfif",
+    "static/media/RobotoSlab-Black.ttf": "/static/media/RobotoSlab-Black.b1eefbae7b352cda1c3a.ttf",
+    "static/media/RobotoSlab-Bold.ttf": "/static/media/RobotoSlab-Bold.aea772dee2141c9b0792.ttf",
+    "static/media/RobotoSlab-Regular.ttf": "/static/media/RobotoSlab-Regular.7ff9da9c484d15185b5b.ttf",
+    "static/media/GildaDisplay-Regular.ttf": "/static/media/GildaDisplay-Regular.f712cdf2015640c8cc1e.ttf",
+    "static/media/github.webp": "/static/media/github.ed1c06d925fff0b57e32.webp",
+    "index.html": "/index.html",
+    "main.af54341a.css.map": "/static/css/main.af54341a.css.map",
+    "main.922ef502.js.map": "/static/js/main.922ef502.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b080e96f.css",
-    "static/js/main.da53748d.js"
+    "static/css/main.af54341a.css",
+    "static/js/main.922ef502.js"
   ]
 }
